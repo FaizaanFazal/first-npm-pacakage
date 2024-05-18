@@ -1,0 +1,22 @@
+{
+  "name": "first-npm-package-faizaan",
+  "version": "1.0.0",
+  "description": "is string checked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaizaanFazal/first-npm-pacakage.git"
+  },
+  "keywords": [
+    "fist-pacakge-faizaan"
+  ],
+  "author": "Faizaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaizaanFazal/first-npm-pacakage/issues"
+  },
+  "homepage": "https://github.com/FaizaanFazal/first-npm-pacakage#readme"
+}
